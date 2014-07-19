@@ -17,6 +17,9 @@ syntax: regexp
 ^.*Linux-x86$
 ^.*OSX-x86_64$
 
+^options.cfg$
+^game_commands.cfg$
+
 ^error_log.txt$
 ^checksums.md5$
 
@@ -25,4 +28,3 @@ syntax: glob
 *.exe
 *.dll
 *.depend
-*.cfg

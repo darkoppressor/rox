@@ -1,0 +1,28 @@
+syntax: regexp
+
+^.objs/
+^screenshots/
+
+^android/assets/
+^android/jni/RakNet/
+^android/jni/SDL2/
+^android/jni/SDL2_image/
+^android/jni/SDL2_mixer/
+^android/bin/
+^android/gen/
+^android/libs/
+^android/obj/
+
+^.*Linux-x86_64$
+^.*Linux-x86$
+^.*OSX-x86_64$
+
+^error_log.txt$
+^checksums.md5$
+
+syntax: glob
+
+*.exe
+*.dll
+*.depend
+*.cfg

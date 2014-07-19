@@ -1,0 +1,59 @@
+<game_command>
+	name:pause
+	title:Pause
+	description:Pause the game
+	developer:false
+	key:Pause
+	controller_button:back
+	controller_axis:
+</game_command>
+
+<game_command>
+	name:chat
+	title:Chat
+	description:Pull up the chat box
+	developer:false
+	key:Return
+	controller_button:
+	controller_axis:
+</game_command>
+
+<game_command>
+	name:scoreboard
+	title:Scoreboard
+	description:Hold to display the scoreboard
+	developer:false
+	key:Tab
+	controller_button:
+	controller_axis:
+</game_command>
+
+<game_command>
+	name:up
+	title:Up
+	description:Move up
+	developer:false
+	key:Up
+	controller_button:dpup
+	controller_axis:
+</game_command>
+
+<game_command>
+	name:down
+	title:Down
+	description:Move down
+	developer:false
+	key:Down
+	controller_button:dpdown
+	controller_axis:
+</game_command>
+
+<game_command>
+	name:use_ability
+	title:Use Ability
+	description:Use the special ability
+	developer:false
+	key:Space
+	controller_button:a
+	controller_axis:
+</game_command>

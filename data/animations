@@ -1,0 +1,47 @@
+<animation>
+	name:grass_blades
+	frame_count:4
+	animation_speed:-1
+	frame_width:16
+	end_behavior:continue
+</animation>
+
+<animation>
+	name:ding
+	frame_count:4
+	animation_speed:63
+	frame_width:16
+	end_behavior:stop
+</animation>
+
+<animation>
+	name:puff
+	frame_count:3
+	animation_speed:83
+	frame_width:8
+	end_behavior:stop
+</animation>
+
+<animation>
+	name:puff_large
+	frame_count:3
+	animation_speed:83
+	frame_width:16
+	end_behavior:stop
+</animation>
+
+<animation>
+	name:rubble
+	frame_count:3
+	animation_speed:83
+	frame_width:8
+	end_behavior:stop
+</animation>
+
+<animation>
+	name:rubble_large
+	frame_count:3
+	animation_speed:83
+	frame_width:16
+	end_behavior:stop
+</animation>

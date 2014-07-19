@@ -1,0 +1,14 @@
+<game_constant>
+	name:zoom_rate
+	default:0.1
+</game_constant>
+
+<game_constant>
+	name:zoom_min
+	default:0.5
+</game_constant>
+
+<game_constant>
+	name:zoom_max
+	default:2.0
+</game_constant>
